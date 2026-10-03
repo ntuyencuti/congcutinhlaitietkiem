@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("logo.jpg.HEIC")
+
 # =========================
 # CẤU HÌNH TRANG
 # =========================
@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM NGÂN HÀNG")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM NGÂN HÀNG_Nguyễn Ngọc Tuyền")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 # =========================
