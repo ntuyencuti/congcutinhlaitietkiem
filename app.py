@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("logo.jpg.HEIC")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
